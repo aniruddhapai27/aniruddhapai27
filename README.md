@@ -8,7 +8,7 @@
 - 🤝 I can help with <b>coding and problem-solving</b>  
 - 🧊 I’m a <b>self-taught cuber</b>
 
-  
+
 
 ---
 
