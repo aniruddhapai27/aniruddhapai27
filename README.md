@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Aniruddha Pai! 😊
 
+  
 <img align="left" height="150" src="https://github.com/user-attachments/assets/25e06a5b-b2e7-45e2-b486-11b2354c604d" alt="Super Mario" style="margin-right: 1rem;" />
 
 - 🔭 I’m currently working on <b>MERN stack projects</b>!  
@@ -9,14 +10,22 @@
 - 🧊 I’m a <b>self-taught cuber</b>
 
 
-
 ---
 
+## 📊 GitHub Analytics
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=aniruddhapai27&theme=dark&hide_border=false)<br/>
+<div align="center flex ">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aniruddhapai27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhapai27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=aniruddhapai&color=blueviolet&style=flat)
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhapai27&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+
 ---
 
 ### 💻 Web Development  
