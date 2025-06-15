@@ -15,7 +15,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center flex ">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aniruddhapai27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhapai27&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhapai27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
