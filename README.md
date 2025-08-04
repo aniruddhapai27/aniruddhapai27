@@ -9,7 +9,6 @@
 - 🧊 I’m a <b>self-taught cuber</b>
 
 ---
-
 ## 📊 GitHub Analytics
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=aniruddhapai27&theme=blue-green&hide_border=true)](https://git.io/streak-stats" alt="GitHub Streak" />
