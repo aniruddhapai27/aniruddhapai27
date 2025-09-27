@@ -4,7 +4,7 @@
 <img align="left" height="150" src="https://github.com/user-attachments/assets/25e06a5b-b2e7-45e2-b486-11b2354c604d" alt="Super Mario" style="margin-right: 1rem;" />
 
 - 🔭 I’m currently working on <b>MERN stack projects</b>!  
-- 🧑‍💻 I’m learning <b>DevOps</b>  
+- 🧑‍💻 I’m learning <b>Machine Learning</b>  
 - 👯 I’m looking to collaborate on <b>real-world projects</b>  
 - 🤝 I can help with <b>coding and problem-solving</b>  
 - 🧊 I’m a <b>self-taught cuber</b>
@@ -64,6 +64,7 @@
 ### 🧠 Programming Languages  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
